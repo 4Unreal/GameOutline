@@ -2,7 +2,7 @@
 
 ---
 ## Requirements
-- Unreal Engine 4.18
+- Unreal Engine 4.21
 - Visual Studio 2017
 
 ## Quick Start
